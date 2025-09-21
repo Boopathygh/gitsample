@@ -1,3 +1,2 @@
-const a=5;
-const b=10;
-console.log("Sum is: ", a + b);
+//this is 2nd command
+console.log("Hello from j.js");
